@@ -7,13 +7,13 @@ on:
 
 jobs:
   update-graph:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Generate contribution graph
-        uses: ashutosh00710/github-readme-activity-graph@main
+        uses: nashvail/github-readme-activity-graph@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -22,5 +22,5 @@ jobs:
           git config --local user.email "shivamchopra020403@gmail.com"
           git config --local user.name "Shivam Chopra"
           git add .
-          git commit -m "Update contribution graph"
+          git commit -m "Update contribution graph" || echo "No changes to commit"
           git push
