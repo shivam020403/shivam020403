@@ -48,9 +48,9 @@ Committed to **open-source contributions** and **collaborating** on innovative p
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam020403&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam020403" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam020403&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam020403&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=shivam020403" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam020403&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 
@@ -58,14 +58,16 @@ Committed to **open-source contributions** and **collaborating** on innovative p
 
 ### 🏆 Achievements & Trophies:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam020403&margin-w=15&margin-h=15" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-trophies.vercel.app/?username=shivam020403&theme=onedark" />
+  </a>
 </p>
 
 ---
 
 ### 🌟 Contribution Graph:
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam020403" alt="Contribution Graph" />
 </p>
 
 ---
